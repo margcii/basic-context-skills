@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Matt Pocock Skills (modified)"
+  short_description: "交互确定项目背景与目标，起草最简结构和上下文文档，确认后实施"
+policy:
+  allow_implicit_invocation: false
